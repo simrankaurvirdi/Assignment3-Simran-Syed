@@ -93,8 +93,10 @@ int main(int argc, char* argv[]){
     numberofelements = argc-1;
     
     if(numberofelements<2){
-        printf("Please enter some numbers to perform the tasks \n"); //errorchecking
-        return 0;
+        perror ("Please enter some numbers ( 2 or more) to perform tasks.");  //errorchecking
+        exit(1);
+        //printf("Please enter some numbers to perform the tasks \n"); 
+        //return 0;
     }
     
   
@@ -135,7 +137,7 @@ int main(int argc, char* argv[]){
     
     printf("Maximum is:%d\n",*((int*)max)); // print the maximum value
     printf("Minimum is:%d\n",*((int*)min)); // print the minimum value
-    printf("Average is:%f\n",*((double*)avg)); // print the average valuye
+    printf("Average is:%f\n",*((double*)avg)); // print the average value
     
     free(max); // free the max from memory so another process can run
     free(min); // free the min from memory so another process can run
