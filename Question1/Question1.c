@@ -1,10 +1,10 @@
 /*Multithreaded program that calculates various statistical values for a list of numbers. 
 This program will be passed a series of numbers onthe command line and will then create three separate worker threads.
-One thread will determine the average of the numbers, the second will determine the maximum value, and the third will determine theminimum value. 
-For example, suppose your program is passed the integers*/
+One thread will determine the average of the numbers, the second will determine the maximum value, 
+and the third will determine the minimum value.*/
+
 //  Question1.c
 //  Created by Simran Kaur and Syed Turab on 2018-11-02.
-//
 
 //#include "Question1.h"
 
