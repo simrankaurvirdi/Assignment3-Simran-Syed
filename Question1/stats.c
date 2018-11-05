@@ -3,7 +3,7 @@ This program will be passed a series of numbers onthe command line and will then
 One thread will determine the average of the numbers, the second will determine the maximum value, 
 and the third will determine the minimum value.*/
 
-//  Question1.c
+//  stats.c
 //  Created by Simran Kaur and Syed Turab on 2018-11-02.
 
 //#include "Question1.h"
