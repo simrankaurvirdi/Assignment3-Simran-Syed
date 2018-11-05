@@ -2,7 +2,7 @@
 # By Simran Kaur and Syed Turab 
 
 # Github 
-The github contribution screenshot is included in the zip file. (github.png). 
+The github contribution screenshot is included in the zip file. (github.jpg). 
 
 # SVN logs 
 The directory called SVN logs will have screenshots of all the SVN commits in our github repository. 
