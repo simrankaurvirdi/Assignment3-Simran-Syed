@@ -4,6 +4,9 @@
 # Github 
 The github contribution screenshot is included in the zip file. (github.jpg). 
 
+https://github.com/simrankaurvirdi/Assignment3-Simran-Syed
+
+
 # SVN logs 
 The directory called SVN logs will have screenshots of all the SVN commits in our github repository. 
 
