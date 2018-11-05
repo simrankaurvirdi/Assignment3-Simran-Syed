@@ -15,8 +15,10 @@ and the third will determine the minimum value.*/
 #include <pthread.h> // for threads
 #include <limits.h> // limits header
 
+/*used as references*/
 /*https://www.geeksforgeeks.org/int_max-int_min-cc-applications
-https://www.tutorialspoint.com/c_standard_library/limits_h.html*/
+https://www.tutorialspoint.com/c_standard_library/limits_h.html*/ 
+
 
 
 
