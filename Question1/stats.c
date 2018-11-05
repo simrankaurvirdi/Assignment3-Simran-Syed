@@ -6,7 +6,7 @@ and the third will determine the minimum value.*/
 //  stats.c
 //  Created by Simran Kaur and Syed Turab on 2018-11-02.
 
-//#include "Question1.h"
+//#include "stats.h"
 
 
 
