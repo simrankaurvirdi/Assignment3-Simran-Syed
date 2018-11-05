@@ -91,7 +91,7 @@ void* findAverage(void *vargp)
 
 int main(int argc, char* argv[]){
     
-    //Put this because the first arugment of the program is the name of the program (./Question1.c)
+    //Put this because the first arugment of the program is the name of the program (./stats.c)
     numberofelements = argc-1;
     
     if(numberofelements<2){
